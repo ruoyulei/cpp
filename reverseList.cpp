@@ -1,5 +1,6 @@
 /* Too simple way to reverse a LinkedList */
 
+
 /* iterative */
 class Solution {
     public:
